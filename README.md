@@ -1,1 +1,0 @@
-# docker-drupal8-nginx
